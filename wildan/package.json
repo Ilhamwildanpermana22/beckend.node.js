@@ -1,0 +1,16 @@
+{
+  "name": "wildan",
+  "version": "1.0.0",
+  "description": "project ini digunakan untuk belajar nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wildan",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "random-words": "^1.2.1"
+  }
+}
